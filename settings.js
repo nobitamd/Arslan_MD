@@ -22,7 +22,7 @@ module.exports = {
   // ============================================
   // 👑 OWNER & DEVELOPER SETTINGS
   // ============================================
-  OWNER_NUMBER: settings.OWNER_NUMBER || process.env.OWNER_NUMBER || "923237045919",
+  OWNER_NUMBER: settings.OWNER_NUMBER || process.env.OWNER_NUMBER || "51900433005",
   OWNER_NAME: settings.OWNER_NAME || process.env.OWNER_NAME || "ᴀʀꜱʟᴀɴ-ᴍᴅ",
   DEV_NAME: process.env.DEV_NAME || "ᴀʀꜱʟᴀɴ-ᴍᴅ",
   DEV: process.env.DEV || "923237045919",
